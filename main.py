@@ -178,6 +178,6 @@ st.write("""
 ---
 ## App repository
 
-[Github](GITHUB_URL_HERE)
+[Github](https://github.com/ftarantuviez/Analyzing-Bike-Trendings)
 """)
 # / This app repository
